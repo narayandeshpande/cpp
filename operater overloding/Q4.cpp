@@ -3,6 +3,7 @@
 // b.	To display a Matrix
 // c.	Overload unary minus ‘–‘ operator to calculate transpose of a Matrix
 // d.	Overload binary multiplication '*’ operator to calculate multiplication of two matrices
+//not complited
 #include <iostream>
 using namespace std;
 class Matrix
